@@ -35,8 +35,6 @@ postList: none
 
 <br/>
 <p align="center">
-  <a href="https://www.npmjs.com/package/sudoskys/AndroluaDocs" target="_blank"><img src="https://img.shields.io/npm/v/sudoskys/AndroluaDocs" alt="npm" class="no-zoom"></a>
-  <a href="https://www.npmjs.com/package/sudoskys/AndroluaDocs" target="_blank"><img src="https://img.shields.io/npm/dt/sudoskys/AndroluaDocs" alt="npm" class="no-zoom"></a>
   <a href="https://github.com/sudoskys/AndroluaDocs" target="_blank"><img src='https://img.shields.io/github/stars/sudoskys/AndroluaDocs' alt='GitHub stars' class="no-zoom"></a>
   <a href="https://github.com/sudoskys/AndroluaDocs" target="_blank"><img src='https://img.shields.io/github/forks/sudoskys/AndroluaDocs' alt='GitHub forks' class="no-zoom"></a>
 </p>
