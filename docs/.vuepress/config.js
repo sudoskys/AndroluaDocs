@@ -40,10 +40,11 @@ module.exports = {
     repo: 'https://gitlab.com/45iron/AndroluaBook', // 导航栏右侧生成Github链接
     searchMaxSuggestions: 20, // 搜索结果显示最大数
     lastUpdated: '上次更新', // 更新的时间，及前缀文字   string | boolean (取值为git提交时间)
-    docsDir: 'docs',
+    // docsDir: 'docs',
     // 假如文档放在一个特定的分支下：
     docsBranch: 'main',
-    // docsDir: 'docs', // 编辑的文件夹
+    docsRepo: '45iron/AndroluaBook',
+    docsDir: 'docs', // 编辑的文件夹
     editLinks: true, // 编辑链接
     editLinkText: '在Gitlab上在线编辑本页面',
    
