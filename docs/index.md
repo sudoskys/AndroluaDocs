@@ -20,6 +20,10 @@ postList: none
 ---
 
 
+## 反馈交流
+
+在阅读过程中有任何问题和想法，请提 [Issue](https://github.com/sudoskys/AndroluaDocs/issues)。
+你也可以在Issue查看别人提的问题和给出解决方案。
 
 ## 本项目贡献者
 
@@ -43,10 +47,24 @@ postList: none
   <a href="https://github.com/sudoskys/AndroluaDocs" target="_blank"><img src='https://img.shields.io/github/forks/sudoskys/AndroluaDocs' alt='GitHub forks' class="no-zoom"></a>
 </p>
 
-## 反馈交流
+## 征稿
+::: tip
+本文档提供资金征集稿件，你可以在 Github 提交issue(请在标题附【投稿】) 来供稿，如果经我合并展示在本文档(lua.dianas.cyou)，每篇支付3元可乐费用。
 
-在阅读过程中有任何问题和想法，请提 [Issue](https://github.com/sudoskys/AndroluaDocs/issues)。
-你也可以在Issue查看别人提的问题和给出解决方案。
+- 要求
+
+你可以投稿补充架构，也可以完善我提出的空文件(请先提交issue并检查有无冲突稿件！因为我并不是一直及时合并(大概是一个月检查一次？))，来稿中需要包含微信二维码，我会将付款记录提交至你的issue下，然后在引用。投稿人保留著作权，但授予本文档发表权，删改权，转载权，复制权，表演权，信息网络传播权。
+
+来稿有抄袭，剽窃以及其他侵权行为的，责任由侵权人自负，本文档不承担。
+
+
+
+- 截止
+
+2022/6/10
+
+:::
+
 
 <p align="center">
   <a class="become-sponsor" href="https://github.com/sudoskys/AndroluaDocs">协助我们完成文档</a>
