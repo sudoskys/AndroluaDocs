@@ -73,6 +73,7 @@ class="no-zoom"></a>
 
 来稿有抄袭，剽窃以及其他侵权行为的，责任由侵权人自负，本文档不承担。
 ::: tip
+- 来稿 https://github.com/sudoskys/AndroluaDocs/issues
 - 考虑到公开性，不接受私稿
 - 活动内容以 2022/4/16 2:00 内容为准
 - 上述活动截止至2022/6/10
