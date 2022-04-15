@@ -46,7 +46,7 @@ module.exports = {
     docsRepo: '45iron/AndroluaBook',
     docsDir: 'docs', // 编辑的文件夹
     editLinks: true, // 编辑链接
-    editLinkText: '在Gitlab上在线编辑本页面',
+    editLinkText: 'Gitlab在线编辑&贡献你的智慧',
    
     // 以下配置是Vdoing主题改动的和新增的配置
     sidebar: { mode: 'structuring', collapsable: false }, // 侧边栏  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义    温馨提示：目录页数据依赖于结构化的侧边栏数据，如果你不设置为'structuring',将无法使用目录页
