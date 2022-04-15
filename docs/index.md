@@ -18,6 +18,35 @@ features: # 可选的
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: none
 ---
+
+
+
+## 本项目贡献者
+
+::: cardList 2
+```yaml
+- name: 可可
+  desc: 喵喵喵喵喵？
+  link: https://gitlab.com/45iron
+  bgColor: '#6dc5d6'
+  textColor: '#eff9fa'
+- name: 下一个...
+  link: https://gitlab.com/45iron/AndroluaBook
+  bgColor: '#f1f1f1'
+  textColor: '#2A3344'
+```
+:::
+
+<br/>
+<p align="center">
+  <a href="https://github.com/sudoskys/AndroluaDocs" target="_blank"><img src='https://img.shields.io/github/stars/sudoskys/AndroluaDocs' alt='GitHub stars' class="no-zoom"></a>
+  <a href="https://github.com/sudoskys/AndroluaDocs" target="_blank"><img src='https://img.shields.io/github/forks/sudoskys/AndroluaDocs' alt='GitHub forks' class="no-zoom"></a>
+</p>
+## 反馈交流
+
+在阅读过程中有任何问题和想法，请提 [Issue](https://github.com/sudoskys/AndroluaDocs/issues)。
+你也可以在Issue查看别人提的问题和给出解决方案。
+
 <p align="center">
   <a class="become-sponsor" href="https://github.com/sudoskys/AndroluaDocs">协助我们完成文档</a>
 </p>
@@ -32,34 +61,6 @@ postList: none
   border: 1px solid #11a8cd;
 }
 </style>
-
-<br/>
-<p align="center">
-  <a href="https://github.com/sudoskys/AndroluaDocs" target="_blank"><img src='https://img.shields.io/github/stars/sudoskys/AndroluaDocs' alt='GitHub stars' class="no-zoom"></a>
-  <a href="https://github.com/sudoskys/AndroluaDocs" target="_blank"><img src='https://img.shields.io/github/forks/sudoskys/AndroluaDocs' alt='GitHub forks' class="no-zoom"></a>
-</p>
-
-## 本项目贡献者
-
-::: cardList 2
-```yaml
-- name: 可可
-  desc: 喵喵喵喵喵？
-  link: https://gitlab.com/45iron
-  bgColor: '#f1f1f1'
-  textColor: '#2A3344'
-- name: 下一个...
-  link: https://gitlab.com/45iron/AndroluaBook
-  bgColor: '#f1f1f1'
-  textColor: '#2A3344'
-```
-:::
-
-## 反馈交流
-
-在阅读过程中有任何问题和想法，请提 [Issue](https://github.com/sudoskys/AndroluaDocs/issues)。
-你也可以在Issue查看别人提的问题和给出解决方案。
-
 
 <!--
 ## 🎖特别用户
