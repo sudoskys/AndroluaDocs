@@ -1,5 +1,6 @@
 ## AndroluaDocs
 
+https://lua.dianas.cyou/
 
 Androlua文档站，欢迎贡献
 [使用Vdoing主题](https://github.com/xugaoyi/vuepress-theme-vdoing)
