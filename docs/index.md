@@ -25,6 +25,10 @@ postList: none
 在阅读过程中有任何问题和想法，请提 [Issue](https://github.com/sudoskys/AndroluaDocs/issues)。
 你也可以在Issue查看别人提的问题和给出解决方案。
 
+## 关于贡献的公约
+
+每位文档贡献者有权在文章内加入打赏方式，但是不允许广告与不良内容（对社会公俗而言）的出现。
+
 ## 本项目贡献者
 
 ::: cardList 2
@@ -45,11 +49,17 @@ postList: none
 <p align="center">
   <a href="https://github.com/sudoskys/AndroluaDocs" target="_blank"><img src='https://img.shields.io/github/stars/sudoskys/AndroluaDocs' alt='GitHub stars' class="no-zoom"></a>
   <a href="https://github.com/sudoskys/AndroluaDocs" target="_blank"><img src='https://img.shields.io/github/forks/sudoskys/AndroluaDocs' alt='GitHub forks' class="no-zoom"></a>
+  <a href="https://azz.net/ly233"><img src="https://img.shields.io/badge/Sponsor-Alipay-ff69b4" alt="SPONSOR"></a>
 </p>
 
-## 征稿
+
+## 活动:征稿
+
 ::: tip
-本文档提供资金征集稿件，你可以在 Github 提交issue(请在标题附【投稿】) 来供稿，如果经我合并展示在本文档(lua.dianas.cyou)，每篇支付3元可乐费用。
+
+活动由Coco个人发起。
+考虑到社区原因，本文档提供资金征集稿件，你可以在 Github 提交issue(请在标题附【投稿】) 来供稿。
+如果后续展示在本文档(lua.dianas.cyou)，本文档会向每篇支付3元可乐费用。
 
 - 要求
 
@@ -59,9 +69,7 @@ postList: none
 
 
 
-- 截止
-
-2022/6/10
+- 截止至2022/6/10
 
 :::
 
