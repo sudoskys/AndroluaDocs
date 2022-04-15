@@ -61,6 +61,7 @@ postList: none
 ::: tip
 
 活动由Coco个人发起。
+
 考虑到社区原因，本文档提供资金征集稿件，你可以在 Github 提交issue(请在标题附【投稿】) 来供稿。
 如果后续展示在本文档(lua.dianas.cyou)，本文档会向每篇支付3元可乐费用。
 
