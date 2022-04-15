@@ -19,7 +19,7 @@ features: # 可选的
 postList: none
 ---
 <p align="center">
-  <a class="become-sponsor" href="https://github.com/sudoskys/AndroluaDocs">支持这个项目</a>
+  <a class="become-sponsor" href="https://github.com/sudoskys/AndroluaDocs">协助我们完成文档</a>
 </p>
 
 <style>
@@ -38,6 +38,27 @@ postList: none
   <a href="https://github.com/sudoskys/AndroluaDocs" target="_blank"><img src='https://img.shields.io/github/stars/sudoskys/AndroluaDocs' alt='GitHub stars' class="no-zoom"></a>
   <a href="https://github.com/sudoskys/AndroluaDocs" target="_blank"><img src='https://img.shields.io/github/forks/sudoskys/AndroluaDocs' alt='GitHub forks' class="no-zoom"></a>
 </p>
+
+## 本项目贡献者
+
+::: cardList 2
+```yaml
+- name: 可可
+  desc: 喵喵喵喵喵？
+  link: https://gitlab.com/45iron
+  bgColor: '#f1f1f1'
+  textColor: '#2A3344'
+- name: 下一个...
+  link: https://gitlab.com/45iron/AndroluaBook
+  bgColor: '#f1f1f1'
+  textColor: '#2A3344'
+```
+:::
+
+## 反馈交流
+
+在阅读过程中有任何问题和想法，请提 [Issue](https://github.com/sudoskys/AndroluaDocs/issues)。
+你也可以在Issue查看别人提的问题和给出解决方案。
 
 
 <!--
@@ -67,25 +88,6 @@ postList: none
 ```
 :::
  -->
-
-<!-- ## 💎 公众号
-`有趣研究社`是本人对各种有趣的、好玩的、沙雕的创意和想法以在线小网站或者文章的形式表达出来，比如：
-- [小霸王游戏机](https://game.xugaoyi.com)
-- [爱国头像生成器](https://avatar.xugaoyi.com/)
-- [到账语音生成器](https://zfb.xugaoyi.com/)
-
-还有更多好玩的等你去探索吧~
-
-::: center
-<img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store@master/blog/qrcode.zdqv9mlfc0g.jpg"  style="width:190px;" />
-:::
-
-<br/> -->
-
-## 反馈交流
-
-在阅读过程中有任何问题和想法，请提 [Issue](https://github.com/sudoskys/AndroluaDocs/issues)。
-你也可以在Issue查看别人提的问题和给出解决方案。
 
 
 
