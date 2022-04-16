@@ -23,14 +23,10 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },
       {
-        text: '文章', link: '/pages/9f7e48/', items: [
-          { text: '目录结构', link: '/categories/?category=%E8%B5%84%E6%BA%90' },
-        ]
+        text: '文章', link: '/pages/9f7e48/'
       },
       {
-        text: '项目', link: '/pages/7e7c38/', items: [
-          { text: '脚手架构建', link: '/pages/7e7c38/' },
-        ]
+        text: '项目', link: '/pages/7e7c38/'//, items: [{ text: '脚手架构建', link: '/pages/7e7c38/' }, ]
       },
       { text: '资源', link: '/pages/ffda64/'
       },
