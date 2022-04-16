@@ -61,7 +61,7 @@ class="no-zoom"></a>
 
 活动由Coco个人发起。
 
-考虑到社区原因，本文档提供资金征集稿件，你可以在 Github 提交issue(请在标题附【投稿】) 来供稿。
+考虑到社区原因，本文档提供资金征集稿件，你可以在 Github&Gitlab 提交issue(请在标题附【投稿】) 来供稿。
 如果后续展示在本文档(lua.dianas.cyou)，本文档会向每篇支付3元可乐费用。
 
 - 要求
@@ -76,7 +76,7 @@ class="no-zoom"></a>
 - 来稿 https://github.com/sudoskys/AndroluaDocs/issues
 - 如果您不希望文章公开在issue，请私稿请发至页底邮箱，不过您需要先同意我披露邮件内容进行证明
 - 活动内容以 2022/4/16 2:00 内容为准
-- 上述活动截止至2022/6/10
+- 上述活动截止至2022/6/15
 :::
 
 
@@ -122,7 +122,12 @@ class="no-zoom"></a>
 ```
 :::
  -->
-
+  <footer>
+      <div>
+    <a href="https://gitlab.com"><img src="https://count.getloli.com/get/@45iron-gitlab-AndroluaBook?theme=moebooru" alt="SPONSOR"
+class="no-zoom"></a>
+  </div>
+  </footer>
 
 
 <!-- Happy new year -->
