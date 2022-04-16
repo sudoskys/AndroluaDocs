@@ -26,7 +26,7 @@ module.exports = {
         text: '文章', link: '/pages/9f7e48/'
       },
       {
-        text: '项目', link: '/pages/7e7c38/'//, items: [{ text: '脚手架构建', link: '/pages/7e7c38/' }, ]
+        text: '项目', link: '/pages/reco/'//, items: [{ text: '脚手架构建', link: '/pages/7e7c38/' }, ]
       },
       { text: '资源', link: '/pages/ffda64/'
       },
