@@ -39,7 +39,7 @@ module.exports = {
     // docsDir: 'docs',
     // 假如文档放在一个特定的分支下：
     docsBranch: 'main',
-    docsRepo: '45iron/AndroluaBook',
+    docsRepo: 'https://gitlab.com/45iron/AndroluaBook',
     docsDir: 'docs', // 编辑的文件夹
     editLinks: true, // 编辑链接
     editLinkText: 'Gitlab在线编辑&贡献你的智慧',
