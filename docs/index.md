@@ -74,7 +74,7 @@ class="no-zoom"></a>
 来稿有抄袭，剽窃以及其他侵权行为的，责任由侵权人自负，本文档不承担。
 ::: tip
 - 来稿 https://github.com/sudoskys/AndroluaDocs/issues  https://gitlab.com/45iron/AndroluaBook/issues
-- 如果您不希望文章公开在issue，请私稿请发至页底邮箱，不过您需要先同意我披露邮件内容进行证明
+- 如果您不希望文章公开在issue，请私稿请发至邮箱 me@dianas.cyou，不过您需要先同意我披露邮件内容进行证明
 - 活动内容以 2022/4/16 2:00 内容为准
 - 上述活动截止至2022/6/15
 :::
